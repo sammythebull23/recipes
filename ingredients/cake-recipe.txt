@@ -2,3 +2,4 @@ flour
 booze
 sugar
 fruit
+chocolate
