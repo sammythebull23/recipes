@@ -3,3 +3,4 @@ booze
 sugar
 fruit
 chocolate
+salt
